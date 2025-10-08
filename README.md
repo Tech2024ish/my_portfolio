@@ -1,20 +1,41 @@
-# my_portfolio
-Dev Academy is a modern and beginner-friendly website that offers courses in Frontend and Backend web development. Users can register or log in for specific courses and contact the academy through a form.
+# Jean Claude ISHIMWE | Portfolio
 
-🚀 Features
-🌐 Informative homepage with About section
-✉️ Contact form with input validation
-🎨 Responsive design using HTML & CSS
-💻 Interactive functionality using JavaScript
-📂 Technologies Used
-HTML5 – for structuring web pages
-CSS3 – for styling and layout
-JavaScript (Vanilla) – for form validation and interaction
-Icons8 – for course icons
-📸 Preview
-My portfolio Screenshot
+## Description
 
-📥 How to Use
-Clone or download this repository:
-git clone https://github.com/Tech2024ish/webTechnology.git
-webTechnology
+This is my personal portfolio website showcasing my skills and projects in **Web Development, Data Science, and Cybersecurity**. It highlights my work, experience, and contact information in a clean, professional format.
+
+## Technologies Used
+
+* **Frontend:** HTML, CSS, JavaScript
+* **Design:** Responsive and mobile-first layout
+
+## Features
+
+* Home page with an introduction
+* About section highlighting skills and experience
+* Projects section to showcase my work
+* Contact form for direct communication
+* Responsive design for all devices
+
+## Installation / How to Run
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Tech2024ish/portfolio.git
+   ```
+2. Open `index.html` in your web browser.
+
+## Usage
+
+* Explore the portfolio to view my projects, skills, and contact information.
+* Click on project links to see live demos or source code (if available).
+
+## Credits
+
+* Developed by **Jean Claude ISHIMWE**
+* Inspiration from modern portfolio designs
+
+## License
+
+This project is **open source** and free to use.
